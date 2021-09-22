@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am [Lakshita Shrivastava](https://www.linkedin.com/in/lakshita-shrivastava-0b15121bb/). I am undergraduate student in Biology (2021-2024) at [Delhi University](http://www.du.ac.in/).
+I am [Lakshita Shrivastava](https://www.linkedin.com/in/lakshita-shrivastava-0b15121bb/). I pursuing BS Biology (2021-2024) at [Delhi University](http://www.du.ac.in/).
 
 Books I am reading - 
 -----
