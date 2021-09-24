@@ -13,7 +13,7 @@ I am [Lakshita Shrivastava](https://www.linkedin.com/in/lakshita-shrivastava-0b1
 Books I am currently reading - 
 -----
 1. [Concepts of Biology (OpenStax)](https://openstax.org/details/books/concepts-biology) by Samantha Fowler, Rebecca Roush, James Wise.
-2. [Biology 2E (OpenStax)](https://openstax.org/details/books/biology-2e) by Mary Ann Clark, Matthew Douglas, Jung Choi.
+2. [Biology 2e (OpenStax)](https://openstax.org/details/books/biology-2e) by Mary Ann Clark, Matthew Douglas, Jung Choi.
 3. [Genentech: The Beginnings of Biotech](https://press.uchicago.edu/ucp/books/book/chicago/G/bo8169877.html) by Sally Smith Hughes. 
 
 Online courses I am currently attending -
